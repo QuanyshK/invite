@@ -61,3 +61,6 @@ button:nth-child(1){
 button:nth-child(2){
     margin-right: -160px;
 }
+button:hover {
+    transform: scale(1.1);
+}
