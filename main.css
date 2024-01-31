@@ -54,8 +54,8 @@ button {
     text-align: center;
 }
 button:nth-child(1){
-    margin-left: -160px;
+    margin-left: -19%;
 }
 button:nth-child(2){
-    margin-right: -160px;
+    margin-right: -20px;
 }
