@@ -33,7 +33,7 @@ img {
 button {
     position: absolute;
     cursor:pointer;
-    width: 140px;
+    width: 120px;
     height: inherit;
     background-color: rgba(87, 147, 181, 0.941) ;
     border: 2px solid #e82a5d00;
