@@ -62,5 +62,5 @@ button:nth-child(2){
     margin-right: -13%;
 }
 button:hover {
-    transform: scale(1.1);
+    transform: scale(0.7);
 }
