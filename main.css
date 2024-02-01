@@ -26,12 +26,12 @@ img {
     border-radius: 20%;
 }
 .btn-group {
-    display: block;
+    display: flex;
     justify-content: center;
+    align-items: center;
 }
 button {
     position: absolute;
-
     cursor:pointer;
     width: 140px;
     height: inherit;
@@ -56,10 +56,10 @@ button {
     text-align: center;
 }
 button:nth-child(1){
-    margin-left: -12%;
+    margin-left: -13%;
 }
 button:nth-child(2){
-    margin-right: -160px;
+    margin-right: -13%;
 }
 button:hover {
     transform: scale(1.1);
